@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Taiwo-art.github.io/portfolio_react_app"
+  "homepage": "http://Taiwo-art.github.io/portfolio_react_app",
   "name": "portfolio_react_app",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    
   },
   "eslintConfig": {
     "extends": [
