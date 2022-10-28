@@ -54,10 +54,10 @@ const Work = () => {
                  React JS and Tailwind CSS Application (Portfolio)
               </span>
               <div className='pt-0 text-center text-pink-600'>
-                <a href="https://taiworecipeappproject-production-c43c.up.railway.app/" target='_blank'>
+                <a href="#">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-gray-300 text-slate-900 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="https://github.com/Taiwo-art/taiwo_recipe_app_project" target='_blank'>
+                <a href="https://github.com/Taiwo-art/portfolio_react_app" target='_blank'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-gray-300 text-slate-900 font-bold text-lg'>Code</button>
                 </a>
               </div>
