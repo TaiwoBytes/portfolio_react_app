@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_react_app/static/css/main.263820ee.css",
-    "main.js": "/portfolio_react_app/static/js/main.ebc81965.js",
+    "main.css": "/portfolio_react_app/static/css/main.fb531f5b.css",
+    "main.js": "/portfolio_react_app/static/js/main.d93c8669.js",
     "static/media/acme.PNG": "/portfolio_react_app/static/media/acme.ff9a923c9ac0475f96e3.PNG",
     "static/media/recipeAppApi.PNG": "/portfolio_react_app/static/media/recipeAppApi.0544316719d480e75603.PNG",
     "static/media/portfolio.PNG": "/portfolio_react_app/static/media/portfolio.f51d8cdb6662502bf8ba.PNG",
@@ -15,11 +15,11 @@
     "static/media/Logo.jpg": "/portfolio_react_app/static/media/Logo.3d8e8e331e6ee77e0abf.jpg",
     "static/media/javascript.png": "/portfolio_react_app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio_react_app/index.html",
-    "main.263820ee.css.map": "/portfolio_react_app/static/css/main.263820ee.css.map",
-    "main.ebc81965.js.map": "/portfolio_react_app/static/js/main.ebc81965.js.map"
+    "main.fb531f5b.css.map": "/portfolio_react_app/static/css/main.fb531f5b.css.map",
+    "main.d93c8669.js.map": "/portfolio_react_app/static/js/main.d93c8669.js.map"
   },
   "entrypoints": [
-    "static/css/main.263820ee.css",
-    "static/js/main.ebc81965.js"
+    "static/css/main.fb531f5b.css",
+    "static/js/main.d93c8669.js"
   ]
 }
